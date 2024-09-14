@@ -1,5 +1,6 @@
 body {
-    background-color: #eeeeee;
+  background-image: url('./assets/pattern-background.svg');  
+  background-size: 100vh;
   }
   
   .h7 {

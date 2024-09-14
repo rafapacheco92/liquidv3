@@ -1,9 +1,9 @@
-import React from "react";
-import Leftsidebar from "./components/Leftsidebar";
-import Maincontent from "./components/Maincontent";
-import Navbar from "./components/Navbar";
-import Rightsidebar from "./components/Rightsidebar";
-import "./styles.css";
+// import React from "react";
+import Leftsidebar from './components/Leftsidebar';
+import Maincontent from './components/Maincontent';
+import Navbar from './components/Navbar';
+import Rightsidebar from './components/Rightsidebar';
+import './styles.css';
 
 export default function App() {
   return (
